@@ -4,6 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "private": true,
+  "scripts": {
+    "develop": "gatsby develop"
+  },
   "dependencies": {
     "gatsby": "^2.24.23",
     "gatsby-theme-docs": "*",

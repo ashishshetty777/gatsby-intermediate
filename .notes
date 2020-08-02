@@ -1,0 +1,5 @@
+yarn init
+yarn workspaces info
+yarn workspace theme-dev add ....
+yarn workspace theme-dev add "gatsby-theme-docs@*"  //Adding custom package
+yarn workspace theme-dev develop //Running workspace script
